@@ -1,0 +1,7 @@
+Features:-
+
+1. This is a CRUD app.
+2. This app used local storage.
+3. Realtime search result feature.
+4. Clean UI & Responsive.
+5. made by core javascript.
