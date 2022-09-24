@@ -1,0 +1,7 @@
+Features :- 
+
+1. Fill a date and app shows you remaining days or months.
+2. when you move cursor so a pettern make on that point.
+3. All features made by javascript.
+4. Fully responsive and clean UI.
+5. made by core javascript.
