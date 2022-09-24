@@ -1,0 +1,7 @@
+Features:-
+
+1. Clean and responsive UI.
+2. Drawing on canvas. brush size scale 5-50pts.
+3. choose color for brush.
+4. one click for clean canvas.
+5. made by core javascript.
