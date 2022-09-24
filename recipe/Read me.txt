@@ -1,0 +1,7 @@
+Features:-
+
+1. Clean and Responsive UI layout.
+2. Search recipes by api.
+3. Whenever page is open so a random recipe show.
+4. Like on your favourit recipe with localstorage.
+5. made by core javascript.
