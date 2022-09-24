@@ -1,0 +1,5 @@
+Features:-
+
+1. Clean UI and responsive layout.
+2. search movies by api.
+3. made by core javascript.
